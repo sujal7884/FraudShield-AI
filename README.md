@@ -40,4 +40,4 @@ streamlit run app.py
 - Customer segmentation using K-Means + DBSCAN
 
 ## 👨‍💻 Built by
-Sujal Khedkar — Final Year Data Science Project
+Sujal Khedkar — Data Science Project
